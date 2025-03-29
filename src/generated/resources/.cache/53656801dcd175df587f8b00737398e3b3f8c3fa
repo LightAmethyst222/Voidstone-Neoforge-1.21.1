@@ -1,0 +1,3 @@
+// 1.21.1	2025-03-29T01:08:35.2879449	Tags for minecraft:block mod id voidstone
+c12f95440f5a72c62c541498cae0a3fdf00ea1cc data/minecraft/tags/block/mineable/pickaxe.json
+c12f95440f5a72c62c541498cae0a3fdf00ea1cc data/minecraft/tags/block/needs_stone_tool.json
