@@ -1,5 +1,21 @@
 {
   "item.voidstone.opal": "Opal",
 
-  "block.voidstone.compressed_deepslate": "Compressed Deepslate"
+  "block.voidstone.compressed_deepslate": "Compressed Deepslate",
+  "block.voidstone.voidstone": "Voidstone",
+  "block.voidstone.compressed_voidstone": "Compressed Voidstone",
+  "block.voidstone.deep_voidstone": "Deep Voidstone",
+
+  "block.voidstone.compressed_deepslate_diamond_ore": "Compressed Deepslate Diamond Ore",
+  "block.voidstone.compressed_deepslate_redstone_ore": "Compressed Deepslate Redstone Ore",
+  "block.voidstone.compressed_deepslate_lapis_ore": "Compressed Deepslate Lapis Lazuli Ore",
+  "block.voidstone.compressed_deepslate_gold_ore": "Compressed Deepslate Gold Ore",
+  "block.voidstone.compressed_deepslate_iron_ore": "Compressed Deepslate Iron Ore",
+
+  "block.voidstone.voidstone_diamond_ore": "Voidstone Diamond Ore",
+  "block.voidstone.voidstone_redstone_ore": "Voidstone Redstone Ore",
+  "block.voidstone.voidstone_lapis_ore": "Voidstone Lapis Lazuli Ore",
+  "block.voidstone.voidstone_gold_ore": "Voidstone Gold Ore",
+
+  "block.voidstone.compressed_voidstone_redstone_ore": "Compressed Voidstone Redstone Ore"
 }

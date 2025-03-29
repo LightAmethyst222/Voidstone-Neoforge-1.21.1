@@ -26,6 +26,21 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
     @Override
     protected void generate() {
         dropSelf(ModBlocks.COMPRESSED_DEEPSLATE.get());
+        dropSelf(ModBlocks.VOIDSTONE.get());
+        dropSelf(ModBlocks.COMPRESSED_VOIDSTONE.get());
+        dropSelf(ModBlocks.DEEP_VOIDSTONE.get());
+
+
+        dropSelf(ModBlocks.COMPRESSED_DEEPSLATE_DIAMOND_ORE.get());
+        dropSelf(ModBlocks.COMPRESSED_DEEPSLATE_REDSTONE_ORE.get());
+        dropSelf(ModBlocks.COMPRESSED_DEEPSLATE_LAPIS_ORE.get());
+        dropSelf(ModBlocks.COMPRESSED_DEEPSLATE_GOLD_ORE.get());
+        dropSelf(ModBlocks.COMPRESSED_DEEPSLATE_IRON_ORE.get());
+        dropSelf(ModBlocks.VOIDSTONE_DIAMOND_ORE.get());
+        dropSelf(ModBlocks.VOIDSTONE_REDSTONE_ORE.get());
+        dropSelf(ModBlocks.VOIDSTONE_LAPIS_ORE.get());
+        dropSelf(ModBlocks.VOIDSTONE_GOLD_ORE.get());
+        dropSelf(ModBlocks.COMPRESSED_VOIDSTONE_REDSTONE_ORE.get());
     }
 
     protected LootTable.Builder createMultipleOreDrops(Block pBlock, Item item, float minDrops, float maxDrops) {

@@ -57,6 +57,22 @@ public class Voidstone {
         }
         if(event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
             event.accept(ModBlocks.COMPRESSED_DEEPSLATE);
+            event.accept(ModBlocks.VOIDSTONE);
+            event.accept(ModBlocks.COMPRESSED_VOIDSTONE);
+            event.accept(ModBlocks.DEEP_VOIDSTONE);
+
+            event.accept(ModBlocks.COMPRESSED_DEEPSLATE_DIAMOND_ORE);
+            event.accept(ModBlocks.COMPRESSED_DEEPSLATE_REDSTONE_ORE);
+            event.accept(ModBlocks.COMPRESSED_DEEPSLATE_LAPIS_ORE);
+            event.accept(ModBlocks.COMPRESSED_DEEPSLATE_GOLD_ORE);
+            event.accept(ModBlocks.COMPRESSED_DEEPSLATE_IRON_ORE);
+
+            event.accept(ModBlocks.VOIDSTONE_DIAMOND_ORE);
+            event.accept(ModBlocks.VOIDSTONE_REDSTONE_ORE);
+            event.accept(ModBlocks.VOIDSTONE_LAPIS_ORE);
+            event.accept(ModBlocks.VOIDSTONE_GOLD_ORE);
+
+            event.accept(ModBlocks.COMPRESSED_VOIDSTONE_REDSTONE_ORE);
         }
     }
 

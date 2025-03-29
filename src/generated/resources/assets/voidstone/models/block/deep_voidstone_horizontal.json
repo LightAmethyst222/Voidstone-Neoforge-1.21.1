@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "voidstone:block/deep_voidstone_top",
+    "side": "voidstone:block/deep_voidstone"
+  }
+}

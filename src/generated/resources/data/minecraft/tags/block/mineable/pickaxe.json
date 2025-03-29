@@ -1,5 +1,8 @@
 {
   "values": [
-    "voidstone:compressed_deepslate"
+    "voidstone:compressed_deepslate",
+    "voidstone:voidstone",
+    "voidstone:compressed_voidstone",
+    "voidstone:deep_voidstone"
   ]
 }

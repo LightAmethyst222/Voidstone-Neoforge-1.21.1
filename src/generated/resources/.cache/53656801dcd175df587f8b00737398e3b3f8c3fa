@@ -1,3 +1,5 @@
-// 1.21.1	2025-03-29T01:08:35.2879449	Tags for minecraft:block mod id voidstone
-c12f95440f5a72c62c541498cae0a3fdf00ea1cc data/minecraft/tags/block/mineable/pickaxe.json
-c12f95440f5a72c62c541498cae0a3fdf00ea1cc data/minecraft/tags/block/needs_stone_tool.json
+// 1.21.1	2025-03-29T13:24:10.6825859	Tags for minecraft:block mod id voidstone
+a99a23107e0c81f8b8a34e94103068cdb018c158 data/minecraft/tags/block/mineable/pickaxe.json
+837be08cbbb2d28a8142f1b8422ce231d5b0ac76 data/minecraft/tags/block/needs_diamond_tool.json
+4340be96c6f182e4897823c3a2b48a68fa463093 data/minecraft/tags/block/needs_iron_tool.json
+457faba1a30a87ac2bc567374bc371286e4b6921 data/minecraft/tags/block/needs_stone_tool.json

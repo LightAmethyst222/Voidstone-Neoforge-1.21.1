@@ -1,5 +1,7 @@
 {
   "values": [
-    "voidstone:compressed_deepslate"
+    "voidstone:voidstone",
+    "voidstone:compressed_deepslate_lapis_ore",
+    "voidstone:compressed_deepslate_iron_ore"
   ]
 }
